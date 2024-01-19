@@ -1,2 +1,3 @@
 Choose Your Pokemons:
+Balbasaur,Charmander,Squirtle.
 
