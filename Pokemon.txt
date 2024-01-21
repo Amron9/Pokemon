@@ -2,3 +2,5 @@ Choose Your Pokemons:
 Balbasaur,Charmander,Squirtle.
        "i choose Balbasaur".
 yahh i won indigo leauge.
+
+v1.1 new pokemons ash grey
